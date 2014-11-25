@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/http
+END
+BrowserUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/http/BrowserUtils.java
+END
+NetUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/http/NetUtil.java
+END
+BrowserType.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/http/BrowserType.java
+END
+CSRFTokenUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/http/CSRFTokenUtil.java
+END

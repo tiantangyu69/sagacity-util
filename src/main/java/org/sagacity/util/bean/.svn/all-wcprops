@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/bean
+END
+GenericsUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/bean/GenericsUtils.java
+END
+ReflectUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/bean/ReflectUtil.java
+END
+PropertiesUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/bean/PropertiesUtil.java
+END
+CommandUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/bean/CommandUtil.java
+END
+EntityClone.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/bean/EntityClone.java
+END

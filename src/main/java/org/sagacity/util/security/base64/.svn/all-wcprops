@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/security/base64
+END
+Base64InputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/security/base64/Base64InputStream.java
+END
+Base64OutputStream.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/security/base64/Base64OutputStream.java
+END
+Shared.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/baseweb/!svn/ver/4/jSagacity-util/src/main/java/org/sagacity/util/security/base64/Shared.java
+END
